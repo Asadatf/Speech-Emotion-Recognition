@@ -2,7 +2,8 @@
 
 A full-stack web application that analyzes emotions in speech using a CNN + HuBERT model trained on the RAVDESS dataset.
 
-![EmotionSense Screenshot](https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![EmotionSense Screenshot]![image](https://github.com/user-attachments/assets/f02f6785-91e0-4a33-b722-1fe6527052ab)
+
 
 ## Features
 
